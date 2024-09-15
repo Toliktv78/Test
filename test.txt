@@ -5,6 +5,7 @@ jkbvfhsdh
 
 
 
+<<<<<<< HEAD
 -----------
 
 
@@ -12,3 +13,8 @@ jkbvfhsdh
 hfdhglefjw;rj
 jkdfkjkefbk
 mdfvbsdk
+=======
+privet test
+fkbsdkkds
+4447475475
+>>>>>>> test
